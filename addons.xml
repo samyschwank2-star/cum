@@ -25,12 +25,12 @@
         </assets>
     </extension>
 </addon>
-<addon id="repository.cum" name="Cum Repository" provider-name="samyschwank2-star" version="1.0.1">
+<addon id="repository.cum" name="Cum Repository" provider-name="samyschwank2-star" version="1.0.2">
     <extension point="xbmc.addon.repository" name="Cum Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/samyschwank2-star/cum/main/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/samyschwank2-star/cum/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/samyschwank2-star/cum/main/</datadir>
+            <info compressed="false">https://samyschwank2-star.github.io/cum/addons.xml</info>
+            <checksum>https://samyschwank2-star.github.io/cum/addons.xml.md5</checksum>
+            <datadir zip="true">https://samyschwank2-star.github.io/cum/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
